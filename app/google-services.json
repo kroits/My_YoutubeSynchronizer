@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "620463615719",
+    "firebase_url": "https://khs-study.firebaseio.com",
+    "project_id": "khs-study",
+    "storage_bucket": "khs-study.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620463615719:android:90e0cbd83fef0cc2",
+        "android_client_info": {
+          "package_name": "com.example.b3216.my_youtubesynchronizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620463615719-mpdhasjnmqvqa99efgd044f2us3454dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVtK1QKikU_wgs6CMbCBZ9C50AJ4YaM4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
